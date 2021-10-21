@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[48],{448:function(t,e,n){"use strict";n.r(e);var s=n(19),o=Object(s.a)({},(function(){var t=this.$createElement,e=this._self._c||t;return e("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[e("p",[this._v("重新生成token，提示输入密码的时候，输入生成的token")])])}),[],!1,null,null,null);e.default=o.exports}}]);
